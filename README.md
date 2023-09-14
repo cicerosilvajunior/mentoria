@@ -1,1 +1,1 @@
-# Projeto de Mentoria de temas relacionados à tecnologia e desenvolvimento
+# Mentoria de temas relacionados à tecnologia e desenvolvimento de software
